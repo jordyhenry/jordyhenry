@@ -5,8 +5,6 @@ Specialist in XR technologies and software / hardware integrations, love to desi
 
 To see some of my work explore my repos or [access my portfolio (wip)](https://jordy-henry.tumblr.com/) 
 
-<br> <br> 
-
 <img class="emojidex-emoji" src="https://cdn.emojidex.com/emoji/xhdpi/triforce.png?1543196775" emoji-code="triforce" alt="triforce" /> 
 <h2>May the Triforce be with you! </h2>
 
