@@ -1,6 +1,6 @@
 # 👾 Creative Developer 
 
-Being experimenting, creating and having fun deploying immersive experiences for the past 5 years. 
+Being experimenting, creating and having fun deploying immersive experiences for the past 7 years. 
 
 Specialist in XR technologies and software / hardware integrations, love to design integrated virtual tools and environments and see how people explore and use them to express themselves.
 
